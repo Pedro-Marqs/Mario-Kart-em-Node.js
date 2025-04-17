@@ -101,3 +101,8 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+<b>Condição para rodar o código já pronto:</b>
+
+<input type="checkbox" id="vitoria-item" />
+<label for="vitoria-item">Ter o node.js e o módulo prompt-sync instalados</label>
